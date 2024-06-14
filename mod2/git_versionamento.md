@@ -1,5 +1,5 @@
-git config --global user.name "MarcosGIT"
-git config --global user.email ditanixplayer@gmail.com
+git config --global user.name "seu_nick"
+git config --global user.email seu_email
 
 git clone (link do repositório)  ## Pegar um repositório do github para nosso pc
 
