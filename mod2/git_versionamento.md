@@ -28,3 +28,4 @@ git restore --staged (nome do arquivo)  ## Serve para removermos o último "git 
 
 git push (repositorio remoto) (branch) ## Serve para enviarmos as alterações ao repositório remoto
 
+git pull ## Serve para pegarmos as alterações enviadas ao repositório remoto para nosso local, fazendo um murge
